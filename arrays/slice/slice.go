@@ -16,3 +16,4 @@ func main() {
 	fmt.Println(a2, s2, s3, s4)
 
 }
+
